@@ -5,7 +5,8 @@ Export the [WHO Covid-19 Database](https://search.bvsalud.org/global-literature-
 ```$ pip install whocovid19db```
 
 ## Usage
-```# Import the Exporter class:
+```
+# Import the Exporter class:
 from whocovid19db import Exporter
 
 # Create a new instance:

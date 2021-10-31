@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "whocovid19db"
 version = "0.0.1"
-description = ""
+description = "Export the WHO Covid-19 Database to a Pandas DataFrame."
 authors = ["Lucas Lopes <lucaslopesf2@gmail.com>"]
 license = "GPL-3.0-or-later"
 readme = "README.md"
